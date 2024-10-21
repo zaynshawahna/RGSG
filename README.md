@@ -1,4 +1,3 @@
-zayn@zaynASUS:~/ruby/ruby/RGSG$ tree
 
 this is the tree of my repo 
 
@@ -27,6 +26,7 @@ this is the tree of my repo
 │       └── views
 │           └── index.html.erb
 └── README.md
+
 # Project Title: RGSG
 
 ## Description
